@@ -34,38 +34,5 @@ var start = function () {
 
 
 
-// var start = function () {
 
-//     var correct = 0;
-//     var incorrect = 0;
-//     var question = "none";
-//     var input = "none";
-//     var answer = "none";
-
-//     var ask = function(){
-//         input = prompt(question);
-//     }
-
-//     var score = function(){
-//         if(input == answer){
-//             correct = correct + 1;
-//             alert("Correct");
-//         }else{
-//             incorrect = incorrect + 1;
-//             alert("Incorrect");
-//         }
-//     };
-//     var lazy = function(){
-//         ask();
-//         score();
-//     }
-//     alert("Welcome to my game!");
-
-//     question = "What is the matrix?";
-//     answer = "There is no matrix";
-//     lazy();
-
-
-
-//     alert("Well done, you got " + correct + " out of 10");
 
